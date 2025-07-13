@@ -30,8 +30,8 @@ The app allows you to manage your stock easily from the terminal, with full CRUD
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-system-cli.git
-cd inventory-system-cli
+git clone https://github.com/abdo13579/Inventory-Management-System
+cd Inventory-Management-System
 ```
 
 2. **Run the script:**
@@ -41,17 +41,6 @@ python main.py
 ```
 
 > Make sure Python 3 is installed on your system.
-
----
-
-## 📁 File Structure
-
-```
-inventory-system-cli/
-├── main.py          # Main application script
-├── products.db      # SQLite database file (auto-generated)
-└── README.md        # Project documentation
-```
 
 ---
 
@@ -72,11 +61,11 @@ Each operation includes proper input validation and user confirmation where nece
 
 ## 🔐 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/abdo13579/Inventory-Management-System/blob/main/LICENSE).
 
 ---
 
 ## 🧛‍♂️ Author
 
-Created with 💻 by **Abdulrahman alhaythem*  
+Created with 💻 by **Abdulrahman alhaythem** 
 For any questions, feel free to open an issue or contribute to the project.
